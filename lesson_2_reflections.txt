@@ -11,6 +11,8 @@ staging area is the saved cahce of the files to be commited.working directory co
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+we can use the diff commands to see the changes revert to old and then committo make sure that we have one commit per logical change that is we only add to staging area when we have one logical change and then commit the next logical change after commiting next staging area.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
