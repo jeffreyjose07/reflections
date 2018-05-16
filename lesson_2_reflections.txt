@@ -16,6 +16,8 @@ we can use the diff commands to see the changes revert to old and then committo 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+when we are required to create other modes or experimental versions of the actual project we can branch our project and create branches that may or may not work, we can still backtrack to our original branch whenever we want.assume you like to create multiple branches or versions of the working code that you have right now; but you would be required to follow a single commit history if you don't use branches, but when you use branches you can have log history for each branch which is useful and not confusing unlike when you had to work with a single branch.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
