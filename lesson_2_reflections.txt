@@ -29,3 +29,6 @@ the result is a new commit that has features of both branches. because it has bo
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+pros:automatically finds the runnable merged code
+cons:cant figure out what changes to kepp if both personnels changed the common code
