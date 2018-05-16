@@ -20,6 +20,8 @@ when we are required to create other modes or experimental versions of the actua
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams helps you visualise the parent and children commits and we can even see the unreachable commits that can be lost if they are not listed in a branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
