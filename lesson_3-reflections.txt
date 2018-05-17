@@ -6,7 +6,7 @@ When you want to show your work to others as you travel or you dont have your lo
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+well we might be working with the remote repository on new updates a sudden automatic pull might interfere with the actual work.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
